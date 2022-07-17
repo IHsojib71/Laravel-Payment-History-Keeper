@@ -12,5 +12,8 @@ This is a simple Payment History Manager using laravel 9 and bootstrap.
 3) open .env and update DB_DATABASE (database details)
 4) run command : composer install
 5) run command : php artisan key:generate
-6) run command : php artisan serve
+6) Migrate all the migrations.
+7) run command : php artisan serve
+
+
 
